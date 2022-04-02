@@ -1,3 +1,3 @@
-# molecular dynamics code
+# Simple Undergraduate projects
 
-Runs classical molecular dynamics code in a 2D gas with Lennard-Jones interactions
+
